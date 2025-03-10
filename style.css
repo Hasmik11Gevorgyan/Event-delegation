@@ -1,0 +1,17 @@
+
+#first{
+  padding:16px;
+  background:grey;
+  border-radius: 4px;
+  button{
+    padding:1rem 3rem;
+    cursor :pointer;
+    background:yellow;
+    border:none;
+    border-radius: 4px;
+  }
+}
+
+#first button.blue{
+  background:#00f
+}
