@@ -15,3 +15,8 @@ const btn = document.createElement("button");
 btn.textContent = 7;
 btn.classList.add("blue");
 wrapper.append(btn);
+
+const btn = document.createElement("button");
+btn.textContent = 8;
+btn.classList.add("blue");
+wrapper.append(btn);
